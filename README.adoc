@@ -1,2 +1,3 @@
-# asciidoctor-light
+= Asciidoctor-light
+
 Light container with asciidoctor package and dependencies
